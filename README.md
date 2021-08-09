@@ -1,9 +1,9 @@
-# Desafio_Driva_Opção_0
+# Desafio_Driva_Opção_2
 Neste repositório encontram-se as resoluções para o desafio proposto pela empresa Driva.
 
 Foram disponibilzadas pela empresa, através de seu CTO - [Wagner Agostinho](https://www.linkedin.com/in/wagnerrua/),  duas opções de desafios, logo, neste repositório, encontram-se as soluções para a 2º opção. 
 
-## :panda_face: Desafio Opção 02
+## :rocket: Desafio Opção 02
 
 Na opção 02, foi pedido para fazer uma API Rest utilizando Javascript(Node.JS) ou Python que atende-se os seguintes requisitos:
 
