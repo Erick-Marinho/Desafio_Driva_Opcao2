@@ -15,7 +15,7 @@ Na opção 02, foi pedido para fazer uma API Rest utilizando Javascript(Node.JS)
     
 ## :computer: Desenvolvimento
 
-Decidi realizar o desafio utilizando o Node.JS levando em consideração que o desafio não exigiria uma aboradgem na qual fosse requerido entrar em detalhes com relação a perfomance e outras peculiariedades, logo, optei pelo Node para diversificar a linguagem da qual adotei para a 1º opção de desafio.
+Decidi realizar o desafio utilizando o Node.JS. A opção pelo ferramenta foi simplesmente para diversificar a linguagem da qual adotei para a 1º opção de desafio.
 
 ## :wrench: Construido com
 
