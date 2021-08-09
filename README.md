@@ -19,8 +19,8 @@ Decidi realizar o desafio utilizando o Node.JS. A opção pela ferramenta foi si
 
 ## :wrench: Construido com
 
-* [Node](https://nodejs.org/en/) - software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web.
-* [Express](https://expressjs.com/pt-br/) - framework para Node.js que fornece recursos mínimos para construção de servidores web.
+* [Node](https://nodejs.org/en/) - Software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web.
+* [Express](https://expressjs.com/pt-br/) - Framework para Node.js que fornece recursos mínimos para construção de servidores web.
 * [Body-parser](https://www.npmjs.com/package/body-parser) - Middleware de análise do body das solicitações recebidas do Node.js.
 * [Axios](https://www.npmjs.com/package/axios) - Cliente HTTP baseado em promessa para o navegador e node.js.
 
