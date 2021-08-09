@@ -26,7 +26,7 @@ A realização das tarefas foi de forma bem intuitiva, um GET pra lá, e mensage
 * [Node](https://nodejs.org/en/) - Software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web.
 * [Express](https://expressjs.com/pt-br/) - Framework para Node.js que fornece recursos mínimos para construção de servidores web.
 * [Body-parser](https://www.npmjs.com/package/body-parser) - Middleware de análise do body das solicitações recebidas do Node.js.
-* [Nodemon](https://www.npmjs.com/package/nodemon) - Ferramenta que ajuda a desenvolver aplicativos baseados em node.js, reiniciando automaticamente o aplicativo quando mudanças de arquivo no diretório são detectadas.
+* [Nodemon](https://www.npmjs.com/package/nodemon) - Ferramenta que reinicia automaticamente o aplicativo quando mudanças de arquivo no diretório são detectadas.
 * [Axios](https://www.npmjs.com/package/axios) - Cliente HTTP baseado em promessa para o navegador e node.js.
 
 ## :flags: Versão
