@@ -19,7 +19,7 @@ Decidi realizar o desafio utilizando o Node.JS. A opção pela ferramenta foi si
 
 O Node, assim como o Python, nos oferecem diversas ferramentas que otimizam o nosso desenvolvimento, decidi utilizar as mais consolidadas para não ter nenhum <s>*susto*</s> problema, para a requisição da API, utilizei o axios, por questões de desempenho e compatibilidades que percebi ao longo de atividades semelhantes. Inclusive, segue um artigo interessante que trata um pouco sobre [Fetch](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch) VS [Axios](https://www.npmjs.com/package/axios) https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5. 
 
-A realização das tarefas foi de forma bem intuitiva, um GET pra lá, e mensagem aparecendo, um POST pra cá e soma realizada. Já na fase 3, fiquei um pouco confuso pois não tinha visto claramente onde estava a chave que eu queria para contemplar a resposta, mas dei aquela espertada e pronto. Fiz um map e no array retornado e *voila!*, lista de filmes carregada com sucesso.
+A realização das tarefas foi de forma bem intuitiva, um GET pra lá, e mensagem aparecendo, um POST pra cá e soma realizada. Já na fase 3, fiquei um pouco confuso pois não tinha visto claramente onde estava a chave que eu queria para contemplar a resposta, mas dei aquela espertada e pronto. Fiz um map no array retornado e *voila!*, lista de filmes carregada com sucesso.🤓
 
 ## :wrench: Construido com
 
